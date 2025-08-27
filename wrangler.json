@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "apirpimx",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "625187ee-bfca-4379-b91b-9b528a347886",
+      "database_name": "api-rpimx-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
